@@ -617,7 +617,7 @@ plt.show()
 ```
 
 
-![png](output_35_0.png)
+![png](histo.png)
 
 
 Indeed, among employees whos salaries were below $50,000 per year, women outnumbered men, even though over twice as many employees are men over the full salary range.
